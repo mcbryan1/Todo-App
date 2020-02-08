@@ -8,7 +8,12 @@ body{
   width: 400px;
   margin: 40px auto;
 }
-
+.App h1{
+  margin: 20px auto;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
 #to-do-form input{
   background-color: rgb(27,112,137);
   width: 200px;
